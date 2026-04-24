@@ -65,7 +65,7 @@ Antes de iniciar el registro se verificó contar con:
 - **Número de teléfono móvil** para la verificación por SMS.
 - Datos personales básicos (nombre, fecha de nacimiento, país/región).
 
-> **Importante:** Microsoft valida automáticamente el correo contra la lista de instituciones educativas reconocidas. Si el dominio no está verificado, puede pedir documentación adicional (carnet estudiantil, certificado de matrícula, etc.).
+> **Importante:** Microsoft valida automáticamente el correo contra la lista de instituciones educativas reconocidas. Si el dominio no está verificado no te aprobara los creditos gratuitos y negara la solicitud.).
 
 ---
 
@@ -75,7 +75,7 @@ Se abrió el navegador y se realizó la búsqueda **"azure for students"** en Go
 
 > *"Empiece a trabajar con Microsoft Azure for Students y disfrute del acceso a servicios en la nube, herramientas de desarrollo y créditos de 100 USD para..."*
 
-![Búsqueda en Google de Azure for Students](Image1.png)
+![Búsqueda en Google de Azure for Students](Captures_Cuenta/Image1.png)
 
 Se hizo clic en el enlace oficial de Microsoft para acceder a la landing page del programa.
 
@@ -92,7 +92,7 @@ Opciones presentadas:
 - **Empezar gratis** → botón principal que inicia el flujo de registro con correo institucional.
 - **¿No es estudiante? Introducción a Azure** → alternativa estándar (no se usó).
 
-![Landing page de Azure for Students](Image2.png)
+![Landing page de Azure for Students](Captures_Cuenta/Image2.png)
 
 Se hizo clic en **Empezar gratis** para continuar.
 
@@ -120,7 +120,7 @@ Una vez completado el registro, se accedió a `https://portal.azure.com` e inici
 - **Idioma:** Español
 - **Tenant:** Tecnológico Comfenalco (institución educativa vinculada al dominio)
 
-![Portal de Azure con la cuenta estudiantil iniciada](Image3.png)
+![Portal de Azure con la cuenta estudiantil iniciada](Captures_Cuenta/Image3.png)
 
 Con la sesión iniciada quedó disponible la suscripción **Azure for Students** para crear recursos (grupos de recursos, Static Web Apps, App Services, etc.) consumiendo el crédito gratuito.
 
