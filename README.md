@@ -34,7 +34,6 @@ npm start
 - [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
 - [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
 - [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
-# PokeDex
 
 
 
@@ -42,7 +41,7 @@ npm start
 
 # Creación de la cuenta en la nube — Microsoft Azure for Students
 
-Este documento describe, paso a paso, el proceso que se realizó para crear la cuenta en **Microsoft Azure** utilizando el programa **Azure for Students**, que permite a estudiantes acceder de forma **gratuita** a servicios de Azure sin necesidad de tarjeta de crédito.
+Ahora Describiremos el paso a paso del proceso que se realizó para crear la cuenta en **Microsoft Azure** utilizando el programa **Azure for Students**, que permite a estudiantes acceder de forma **gratuita** a servicios de Azure sin necesidad de tarjeta de crédito.
 
 ---
 
